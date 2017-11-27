@@ -1,0 +1,23 @@
+{
+  "name": "l-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  },
+  "scripts": {
+    "sass": "node-sass -o dest src -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lugithub/l-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lugithub/l-sass/issues"
+  },
+  "homepage": "https://github.com/lugithub/l-sass#readme"
+}

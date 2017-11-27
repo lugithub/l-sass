@@ -1,0 +1,10 @@
+$captain-marvel: blue1;
+$daptain-marvel: $captain-marvel;
+
+h1 {
+  background-color: $captain-marvel;
+}
+
+.#{$captain-marvel} {
+  font-size: 36px;
+}
