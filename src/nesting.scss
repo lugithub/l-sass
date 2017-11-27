@@ -1,0 +1,19 @@
+.spiderman {
+
+  &-container & {
+    background-color: yellow;
+  }
+
+  &::before {
+    content: "<<";
+  }
+
+  img {
+
+    &:hover {
+      background-color: red1;
+    }
+
+  }
+
+}

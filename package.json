@@ -8,7 +8,7 @@
     "node-sass": "^4.7.2"
   },
   "scripts": {
-    "sass": "node-sass -o dest src -w"
+    "sass": "node-sass src -o dest -w -r"
   },
   "repository": {
     "type": "git",
